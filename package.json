@@ -1,0 +1,21 @@
+{
+  "name": "hien.vanillajs",
+  "version": "0.0.1",
+  "description": "Using vanillajs for the test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./ -p 8080"
+  },
+  "keywords": [
+    "vannillajs",
+    "exam",
+    "line"
+  ],
+  "author": "phanthehien",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "prettier": "^1.15.2"
+  }
+}
